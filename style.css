@@ -16,14 +16,15 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: #99EDC3
+;
     padding: 20px;
     font-family: Arial;
   }
   
   .heading{
-    background-color: #373738;
-    color: #efeff2;
+    background-color: #FDA172	;
+    color: blue;
     padding: 1em;
   }
   
@@ -38,16 +39,16 @@
   }
   
   .content {
-    background-color: #272b30;
+    background-color: #FDA172;
     margin: 20px;
     padding: 10px;
-    color: white;
+    color: ;
   }
 
 
   .btn {
     border: none;
-    outline: none;
+    outline: none
     padding: 12px 16px;
     background-color: white;
     cursor: pointer;
@@ -55,13 +56,15 @@
   }
   
   nav {
-    background-color: #272b30;
+    background-color:#FDA172
+;
     padding: 10px;
     border-radius: 10px;
   }
   
   footer {
-    background-color: #272b30;
+    background-color: #FDA172 
+;
     padding: 20px;
     color: white;
     text-align: center;
